@@ -1,6 +1,6 @@
 # `Three.js With Expo` 
 
-![image](https://raw.githubusercontent.com/alperbayram/expo-threejs/assets/and.gif)
+![image](https://github.com/alperbayram/expo-threejs/blob/main/assets/and.gif)
 
 <p>
   <!-- iOS -->
